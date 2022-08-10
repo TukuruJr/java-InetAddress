@@ -165,7 +165,6 @@ public class Network implements ActionListener{
 			}
 	}
 	
-	}
 	//for empty host
 	private boolean isEmpty()  {
 		if(!Host.getText().isBlank()) {
